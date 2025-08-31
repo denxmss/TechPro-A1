@@ -1,6 +1,6 @@
 public class seatworksix {
     public static void main(String[] args) {
-        System.out.println("Seatworksix");
+        System.out.println("seatworksix");
 
         int[][] lotteryCard = {
             {20, 15, 7},
