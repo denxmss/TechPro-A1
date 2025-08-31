@@ -1,4 +1,4 @@
-public class Main {
+public class seatworkfive {
     public static void main(String[] args) {
         System.out.println("Seatwork 5");
         System.out.println("Countdown");

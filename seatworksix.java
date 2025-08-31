@@ -1,4 +1,4 @@
-public class Array {
+public class seatworksix {
     public static void main(String[] args) {
         System.out.println("Seatworksix");
 
