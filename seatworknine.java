@@ -5,7 +5,7 @@ public class seatworknine {
         int index = 0;
 
         while (index < 5) {
-            System.out.print("value of item : " + numbers[index]);
+            System.out.print("value of item: " + numbers[index]);
             index++;
             System.out.print("\n");
         }
