@@ -20,6 +20,6 @@ public class seatworkseven {
                 System.out.println("Invalid grade");
         }
 
-        System.out.println("Your grade is " + grade);
+        System.out.println("Your grade is " + grade.);
     }
 }
