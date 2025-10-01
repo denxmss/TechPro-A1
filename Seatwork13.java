@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Seatwork13 {
 
-    // Method 1: Grade based on percentage (e.g, 85%)
+    // Method 1: Grade based on percentage (e.g., 85%)
     public static String calculateGrade(double percentage) {
         if (percentage >= 90) return "A";
         else if (percentage >= 80) return "B";
